@@ -32,4 +32,4 @@ def plot_histograms(trunct_level = 0.2):
 
 plot_histograms()
 plot_corr(data = data, exclude = ['target', 'Time'], save_path = os.path.join(GRP_PATH, 'corr.jpg'))
-# Variables arent correlated, because they'ra result of PCA. 
+# Variables arent correlated, because it's a result of PCA. 
