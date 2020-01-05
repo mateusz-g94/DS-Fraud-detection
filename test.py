@@ -31,8 +31,8 @@ models_dw = StoreModels()
 params = {}
 
 # For models create params to evaluate
-#for model in models_dw.get_models_list():
-for model in ['run_for_nm', 'run_for_rus', 'run_for_adasyn', 'run_for_smote']:
+#for model in ['run_for_nm', 'run_for_rus', 'run_for_adasyn', 'run_for_smote']:
+for model in models_dw.get_models_list():
     params[model] = (models_dw.load_model(model), {'train' : (X_train, y_train), 'test' : (X_test, y_test)})
     
 # Open eval object
