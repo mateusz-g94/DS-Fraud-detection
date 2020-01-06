@@ -1,6 +1,10 @@
 # Project description
 </br>
-Test sampling methods used to deal with imbalanced data.
+Test sampling methods used to deal with imbalanced data.</br>
+Model: Random Forest.</br>
+Data: https://www.kaggle.com/mlg-ulb/creditcardfraud </br>
+Model selection based on Bayesian Optimization.
+
 </br>
 
 ![alt text](https://github.com/mateusz-g94/DS-Fraud-detection/blob/master/data_flow.jpeg)
