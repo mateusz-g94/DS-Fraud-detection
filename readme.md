@@ -14,10 +14,10 @@ Model selection based on Bayesian Optimization.
 # Results on test:
 </br>
 Data sets: </br>
-run_for_nm      - Random Forest and NearMiss </br>
-run_for_rus     - Random Forest and Random Under Sampler </br>
-run_for_smote   - Random Forest and SMOTE </br>
-run_for_adasyn  - Random Forest and ADASYN </br> </br>
+run_for_nm      - Random Forest and NearMiss (04) </br>
+run_for_rus     - Random Forest and Random Under Sampler (03) </br>
+run_for_smote   - Random Forest and SMOTE (05)</br>
+run_for_adasyn  - Random Forest and ADASYN (06)</br> </br>
 
 ROC:
 
