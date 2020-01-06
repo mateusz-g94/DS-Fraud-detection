@@ -28,3 +28,13 @@ Cumulative lift:
 Precision-recall curve:
 
 ![alt text](https://github.com/mateusz-g94/DS-Fraud-detection/blob/master/grp/prc_set_test.png)
+
+</br>
+Cumulative captured response:
+
+![alt text](https://github.com/mateusz-g94/DS-Fraud-detection/blob/master/grp/captured_response_cum_set_test.png)
+
+</br>
+Confusion matrixes:
+
+![alt text](https://github.com/mateusz-g94/DS-Fraud-detection/blob/master/grp/conf_matrix.png)
