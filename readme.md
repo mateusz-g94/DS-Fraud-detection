@@ -13,7 +13,7 @@ Data sets: </br>
 run_for_nm      - Random Forest and NearMiss </br>
 run_for_rus     - Random Forest and Random Under Sampler </br>
 run_for_smote   - Random Forest and SMOTE </br>
-run_for_adasyn  - Random Forest and ADASYN </br>
+run_for_adasyn  - Random Forest and ADASYN </br> </br>
 
 ROC:
 
