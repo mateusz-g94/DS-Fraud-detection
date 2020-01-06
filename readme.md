@@ -11,7 +11,7 @@ Model selection based on Bayesian Optimization.
 
 </br></br>
 
-# Results on test:
+# Results on test (02):
 </br>
 Data sets: </br>
 run_for_nm      - Random Forest and NearMiss (04) </br>
