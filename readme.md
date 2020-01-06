@@ -7,13 +7,17 @@ Test sampling methods used to deal with imbalanced data.
 
 </br></br>
 
-Results on test:
+# Results on test:
+ROC:
+
 ![alt text](https://github.com/mateusz-g94/DS-Fraud-detection/blob/master/grp/roc_set_test.png)
 
 </br>
+Cumulative lift:
 
 ![alt text](https://github.com/mateusz-g94/DS-Fraud-detection/blob/master/grp/lift_cum_set_test.png)
 
 </br>
+Precision-recall curve:
 
 ![alt text](https://github.com/mateusz-g94/DS-Fraud-detection/blob/master/grp/prc_set_test.png)
