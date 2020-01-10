@@ -41,9 +41,9 @@ Cumulative captured response:
 </br>
 Score histograms:
 
-![alt text](https://github.com/mateusz-g94/DS-Fraud-detection/blob/master/grp/score_hist_model_run_for_adasyn_test.png)
 ![alt text](https://github.com/mateusz-g94/DS-Fraud-detection/blob/master/grp/score_hist_model_run_for_nm_test.png)
 ![alt text](https://github.com/mateusz-g94/DS-Fraud-detection/blob/master/grp/score_hist_model_run_for_rus_test.png)
+![alt text](https://github.com/mateusz-g94/DS-Fraud-detection/blob/master/grp/score_hist_model_run_for_adasyn_test.png)
 ![alt text](https://github.com/mateusz-g94/DS-Fraud-detection/blob/master/grp/score_hist_model_run_for_smote_test.png)
 
 </br>
